@@ -2,7 +2,7 @@
 
 ## **:wave: Welcome**
 
-welcome to my dotfiles, I'm Joel from Catalonia, Spain.
+### Welcome to my dotfiles, I'm Joel from Catalonia, Spain.
 
 I am publishing these dotfiles based on i3wm, which are installed on Debian Kali Linux. The dependencies are:
 
