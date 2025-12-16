@@ -1,6 +1,6 @@
 # Super minimalist i3WM dotfiles
 
-**:wave: Welcome**
+## **:wave: Welcome**
 
 welcome to my dotfiles, I'm Joel from Catalonia, Spain.
 
