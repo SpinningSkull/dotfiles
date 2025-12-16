@@ -3,6 +3,7 @@
 ## Hey there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
 ### Welcome to my dotfiles, I'm Joel from Catalonia, Spain.
+![X](https://img.shields.io/twitter/follow/Louikizz)
 
 📥 I am publishing these dotfiles based on i3wm, which are installed on Debian Kali Linux. The dependencies are:
 
