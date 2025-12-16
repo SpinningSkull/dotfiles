@@ -6,7 +6,7 @@
 ### Welcome to my dotfiles, I'm Joel from Catalonia, Spain.
 ![X](https://img.shields.io/twitter/follow/Louikizz)
 
-📥 I am publishing these dotfiles based on i3wm, which are installed on Debian Kali Linux.ㅤㅤㅤㅤㅤㅤㅤㅤㅤ ‎ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ‎ The dependencies are:
+📥 I am publishing these dotfiles based on i3wm, which are installed on Debian Kali Linux.ㅤㅤㅤㅤㅤㅤㅤㅤ The dependencies are:
 
 | Name          | Link                                         |
 |---------------|----------------------------------------------|
